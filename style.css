@@ -1,0 +1,11 @@
+body{
+    background-color:cadetblue;
+}
+.line{
+    background-color:chartreuse;
+    height:7px;
+    width:100px;
+}
+img:hover{
+    transform:scale(0.3);
+}
